@@ -14,9 +14,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="36"> About Me
-
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+## 👨‍💻 About Me
 
 ```javascript
 const krunal = {
@@ -33,11 +31,9 @@ const krunal = {
 };
 ```
 
-<br clear="right"/>
-
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
