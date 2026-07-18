@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+%7C+Node.js+%7C+MongoDB;Building+AI+Placement+Preparation+Portal+%F0%9F%8E%93;Next%3A+SHEMS+%E2%80%94+Smart+Hospital+Emergency+System+%F0%9F%8F%A5;Open+to+Collaborations+%26+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+%7C+Node.js+%7C+MongoDB;Building+AI+Placement+Preparation+Portal+%F0%9F%8E%93;Next%3A+SHEMS+Smart+Hospital+Emergency+System+%F0%9F%8F%A5;Open+to+Collaborations+%26+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -54,11 +54,6 @@ const krunal = {
 
 ## 📊 GitHub Statistics
 
-> **What these cards show:**
-> - 📈 **Stats Card** — Total commits, pull requests, issues, stars earned & code review contributions
-> - 🔥 **Streak Card** — Your current active streak & longest streak ever
-> - 💬 **Top Languages** — Most used programming languages across all your repositories
-
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=krunal1911&show_icons=true&theme=radical&border_radius=10&include_all_commits=true&count_private=true&hide_border=false" />
@@ -103,9 +98,9 @@ const krunal = {
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  🏥  SHEMS — Smart Hospital Emergency Management System  🏥  ║
+║   🏥   SHEMS — Smart Hospital Emergency Management System    ║
 ║                                                              ║
-║          "Saving Lives Through Smart Technology"             ║
+║           "Saving Lives Through Smart Technology"            ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -113,20 +108,19 @@ const krunal = {
 
 **SHEMS** is a next-generation hospital emergency management system designed to streamline patient intake, emergency resource tracking, and real-time staff coordination during critical situations.
 
-#### 🎯 Planned Features
-
 | 🏷️ Module | 📋 Description | 🛠️ Tech |
 |:---|:---|:---|
 | 🚨 **Emergency Triage** | Real-time patient severity classification & bed allocation | Node.js + MongoDB |
-| 🛏️ **Live Bed Tracker** | Real-time ICU, ward & emergency bed availability dashboard | Socket.io |
+| 🛏️ **Live Bed Tracker** | Real-time ICU, ward & emergency bed availability | Socket.io |
 | 👨‍⚕️ **Staff Management** | Duty rosters, on-call alerts & shift management | Express.js |
 | 🚑 **Ambulance Dispatch** | GPS-based ambulance tracking and routing | Maps API |
 | 💊 **Inventory System** | Medicines, blood bank & equipment real-time stock | MongoDB |
 | 📋 **Patient Records** | Digital EHR with emergency history access | REST API |
 | 📊 **Admin Dashboard** | Hospital-wide analytics, charts & reports | Chart.js |
-| 🔔 **Alert System** | SMS/Email/push notifications for critical events | Twilio / NodeMailer |
+| 🔔 **Alert System** | SMS/Email/push notifications for critical events | Twilio |
 
-#### 🏗️ Tech Stack Planned
+<div align="center">
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
@@ -134,6 +128,8 @@ const krunal = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 > 🚧 **Status:** Planning Phase — Coming Soon!
+
+</div>
 
 ---
 
@@ -145,26 +141,20 @@ const krunal = {
 
 ---
 
-## 📫 Contact Me
+## 📫 Let's Connect
 
 <div align="center">
 
-| 📞 Phone | 📧 Email | 🐙 GitHub |
-|:---:|:---:|:---:|
-| [+91 94268 93040](tel:+919426893040) | [desaikrunal2005@gmail.com](mailto:desaikrunal2005@gmail.com) | [krunal1911](https://github.com/krunal1911) |
-
-<br/>
-
-<a href="tel:+919426893040">
-  <img src="https://img.shields.io/badge/📞%20Call%20Me-%2B91%2094268%2093040-25D366?style=for-the-badge" />
-</a>
-&nbsp;
 <a href="mailto:desaikrunal2005@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-desaikrunal2005-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-desaikrunal2005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://github.com/krunal1911">
   <img src="https://img.shields.io/badge/GitHub-krunal1911-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="tel:+919426893040">
+  <img src="https://img.shields.io/badge/Phone-%2B91%2094268%2093040-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 </div>
@@ -173,9 +163,11 @@ const krunal = {
 
 <div align="center">
 
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+*💡 "Code is like humor. When you have to explain it, it's bad." — Cory House*
 
-⭐ **If you like my projects, consider giving them a star!** ⭐
+<br/>
+
+⭐ **If you like my work, give it a star!** ⭐
 
 </div>
 
