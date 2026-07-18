@@ -74,19 +74,6 @@ const krunal = {
 
 ---
 
-## 🏆 GitHub Achievements
-
-> **What trophies you can earn:**
-> 🏅 **Commits** · ⭐ **Stars** · 👥 **Followers** · 🍴 **Forks** · 🔀 **Pull Requests** · 🐛 **Issues** · 📦 **Repositories** · 🌐 **MultiLanguage**
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=krunal1911&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=4)
-
-</div>
-
----
-
 ## 🚀 Projects
 
 ### ✅ Completed — AI Placement Preparation Portal
